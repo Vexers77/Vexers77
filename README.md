@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Information Technology & Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
-  - [Azure Cloud Project (Mini Honeynet and SOC)](https://github.com/Vexers77/Azure-Cloud-SOC)
-  - [Help Desk environment w/ configuration + tickets using osTicket Support System](https://github.com/Vexers77/Azure-Cloud-SOC)
+- <b>Azure Cloud Project (Mini Honeynet and SOC)</b>
+  - (https://github.com/Vexers77/Azure-Cloud-SOC)
+- <b>Help Desk environment w/ configuration + tickets using osTicket Support System</b>
+  - (https://github.com/Vexers77/oSTicketSupportSystem)
